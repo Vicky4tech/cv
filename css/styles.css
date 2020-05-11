@@ -1,0 +1,42 @@
+/******************tag selector*************/
+body {
+  background-color:#c3edea;
+}
+
+img {
+  height: 250px;
+}
+
+hr {
+  border-style:none;
+  border-top-style:dotted;
+  border-width: 5px;
+  border-color: #fa9191;
+  width: 3%;
+}
+h1  {
+  color: #ea5455;
+  font-family: cursive;
+  font-size: 45px;
+}
+h3  {
+  color: #ea6227;
+  font-family:monospace;
+  font-size: 30px;
+}
+h2  {
+  color: #ea6227;
+  font-family: monospace;
+  font-size: 30px;
+}
+/******************class selector***************/
+.b1:hover {
+  background-color: #ea5455;
+  border-style: inset;
+  border-width: 3.5px;
+}
+.b2:hover {
+  background-color: #ea6227;
+  border-style: inset;
+  border-width: 3.5px;
+}
